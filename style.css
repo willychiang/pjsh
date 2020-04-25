@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1024px;
+  margin: 0 auto;
+  height: auto;
+  font-family: MicrosoftJhengHeiRegular;
+  background-color: #dbdbdb;
+}
+
+h1 {
+  color: #4f04fb;
+}
+input{
+  width: 30px;
+}
+
+.total{
+  color: #db0707;
+  font-size: 24px;
+}
